@@ -4,8 +4,11 @@ class hash_name
 {
 public:
     char *name=new char[30];
+    unsigned int msize;
     void EraseLetters();
-
+    unsigned long long Hash();
+private:
+    unsigned int LetterToWord(char);
 };
 
 
