@@ -7,4 +7,4 @@ this is a programm that has 2 inputs :
 and one output:
 - number2
 
-that is smaller than number1      (so ..... DIV number1 = number2)
+that is smaller than number1      (so ..... MOD number1 = number2)
